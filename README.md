@@ -18,6 +18,16 @@
 
 $ git clone https://github.com/deivid94/javascript_for_backend_fundamentos.git
  ```
+
+  - :warning: instale o npm como gerenciador a de dependencia
+
+    [Instalar npm & node](https://nodejs.org/en/)
+
+  ```bash
+  $ node --version
   
+  $ npm --version
+
+ ```
 
 
