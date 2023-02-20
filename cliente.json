@@ -1,0 +1,16 @@
+{
+    "nome":"Deivid",
+    "sobrenome":"Martins",
+    "idade": 28,
+    "email":"deivid@teste.com",
+    "endereco": {
+        "rua": "Bertholdo Ricardo Beling",
+        "numero": 50,
+        "Bairro": "Passa Vinte",
+        "Cidade":   "Palhoca",
+        "Cep": 8813045
+
+
+    }
+
+}
