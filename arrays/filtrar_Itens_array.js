@@ -1,4 +1,4 @@
-const clientes = require('./clients_exercice.json')
+const clientes = require('../clients_exercice.json')
 
 function filtrarClientesSemComplemento(clientes){
 return clientes.filter((cliente) => {

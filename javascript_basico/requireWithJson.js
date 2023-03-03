@@ -1,7 +1,7 @@
 // GET JSON/ CONVERT TO STRINF, CONVERT TO JSON AGAIN
 
 
-const clientes = require("./cliente.json")
+const clientes = require("../cliente.json")
 
 
 const listClient = Object.keys(clientes)

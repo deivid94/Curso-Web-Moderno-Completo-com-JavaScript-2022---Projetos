@@ -1,4 +1,4 @@
-const clientes = require('./clients_exercice.json')
+const clientes = require('../clients_exercice.json')
 
 function encontrarObj (lista, chave, valor){
     return  lista.find((item) => item[chave].includes(valor))

@@ -1,4 +1,4 @@
-const clientes = require('./clients_exercice.json')
+const clientes = require('../clients_exercice.json')
 
 function ordernar (lista, propriedade ){
     const resultado = lista.sort((a,b)=> {
