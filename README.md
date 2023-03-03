@@ -5,7 +5,15 @@
 </h1>
 
 #  :cloud: :computer:About
-  Criei esse repositorio  para usar como consulta, dos fundamentos  aprendidos em javascript, EMCA para backend com nodejs
+  <p align="justify">Criei esse repositorio  para usar como consulta, dos fundamentos  aprendidos em javascript, EMCA para backend com nodejs
+    - Funcamentos aprendidos
+   <ul>
+    <li>Arrays, Ordenando arrays, Inserindo novos dados, metodos:  [map, reduce, slice, splice, pop,...]</li>
+    <li>Objetos: Acessando Objetos, Encontrando um objeto, metodos: [spread, objectkeys,]</li>
+    <li>Algoritimos com javascript</li>
+
+  </ul>
+  <p>
 
 ## :hammer:Tools
 - [node](https://nodejs.org/en/docs/)
