@@ -15,6 +15,14 @@
   </ul>
   <p>
 
+  <h1>Algoritimos de ordencacao</h1>
+  <ul>
+  <li>insetion sort</li>
+  <li>selection sort</li>
+  </ul>
+  </p>
+<hr>
+
 ## :hammer:Tools
 - [node](https://nodejs.org/en/docs/)
 - [typescript](https://www.typescriptlang.org/docs/)
