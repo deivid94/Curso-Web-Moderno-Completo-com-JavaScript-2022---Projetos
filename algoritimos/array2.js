@@ -43,7 +43,7 @@ const listaLivros = [
   {
     titulo: "Python",
     preco: 20
-  },
+  }
 ]
 
 module.exports = listaLivros
