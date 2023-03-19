@@ -17,8 +17,10 @@
 
   <h1>Algoritimos de ordencacao</h1>
   <ul>
-  <li>insetion sort</li>
+  <li>insertion sort</li>
+  <li>merge sort</li>
   <li>selection sort</li>
+  <li>recursao</li>
   </ul>
   </p>
 <hr>
